@@ -1,8 +1,6 @@
 # <center>![MathScannerSolver logo](https://i.imgur.com/Y5x0y3P.png)</center>
 # <center>User Manual</center>
 
-## How to Install:
-
 <details>
   <summary> How to Install (click to expand) </summary>
 ### I. Cloning the Repository
