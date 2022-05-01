@@ -3,6 +3,8 @@
 
 ## How to Install:
 
+<details>
+  <summary> How to Install (click to expand) </summary>
 ### I. Cloning the Repository
 
 
@@ -37,7 +39,7 @@
 3. If successful, you should see the MathScannerSolver page loaded.
 
 ![Home Page](https://i.imgur.com/yuqnVfI.png)
-
+</details>
 # How to use:
 
 
