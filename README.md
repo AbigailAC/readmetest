@@ -38,9 +38,9 @@
 
 ![Home Page](https://i.imgur.com/yuqnVfI.png)
 </details>
-# How to use:
 
-
+<details>
+<summary>How to Use (click to expand)</summary>
 ## Uploading an image
 
 1. On the front page, left click on the *"Upload Your Picture"* button.
@@ -68,8 +68,10 @@
 4. Once satisfied with your input, you can press the *"Submit"* button to submit your input.
 5. Upon submission, you will be taken to the results page.
 ![](https://i.imgur.com/UH1VjX2.png)
+</details>
 
-# FREQUENTLY ASKED QUESTIONS
+<details>
+  <summary>FAQ (click to expand) </summary>
 
 ### What is MathScannerSolver?
 >MathScannerSolver creates a webserver which hosts a site inputting math either via text or through uploading images, and provides methods to display and solve a small subset of math problems.
@@ -85,3 +87,4 @@
 
 ### Why was MathScannerSolver created?
 >MathScannerSolver was created as a University project as Group 8 found there to be a lack of a proper LaTeX solver written in JavaScript. 
+</details>
