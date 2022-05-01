@@ -3,6 +3,7 @@
 
 <details>
   <summary> How to Install (click to expand) </summary>
+  
 ### I. Cloning the Repository
 
 
@@ -37,10 +38,13 @@
 3. If successful, you should see the MathScannerSolver page loaded.
 
 ![Home Page](https://i.imgur.com/yuqnVfI.png)
+  
 </details>
+
 
 <details>
 <summary>How to Use (click to expand)</summary>
+  
 ## Uploading an image
 
 1. On the front page, left click on the *"Upload Your Picture"* button.
@@ -71,6 +75,7 @@
 </details>
 
 <details>
+  
   <summary>FAQ (click to expand) </summary>
 
 ### What is MathScannerSolver?
@@ -87,4 +92,5 @@
 
 ### Why was MathScannerSolver created?
 >MathScannerSolver was created as a University project as Group 8 found there to be a lack of a proper LaTeX solver written in JavaScript. 
+  
 </details>
