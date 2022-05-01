@@ -40,7 +40,7 @@
 
 # How to use:
 
-<!-- 
+
 ## Uploading an image
 
 1. On the front page, left click on the *"Upload Your Picture"* button.
@@ -84,4 +84,4 @@
 >MathScannerSolver is primarily written in REACT for the Frontend and JavaScript for the backend. Additionally, MathScannerSolver uses ANTLR as a parser generator.
 
 ### Why was MathScannerSolver created?
->MathScannerSolver was created as a University project as Group 8 found there to be a lack of a proper LaTeX solver written in JavaScript. -->
+>MathScannerSolver was created as a University project as Group 8 found there to be a lack of a proper LaTeX solver written in JavaScript. 
