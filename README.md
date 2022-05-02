@@ -97,7 +97,7 @@
 </details>
 
 <details>
-  <summary>React Information</summary>
+  <summary>React Information (click to expand)</summary>
 
 ### Getting Started with Create React App
 
