@@ -82,7 +82,7 @@
 >MathScannerSolver creates a webserver which hosts a site inputting math either via text or through uploading images, and provides methods to display and solve a small subset of math problems.
 
 ### Who created MathScannerSolver?
->Group 8, consisting of Dylan Strickley, Carlos Gomez, Jonathan O'Berry, Abigail Beneduce, Pam Viana, and Sarah Baron are the creators of MathScannerSolver.
+>Group 8, consisting of Dylan Strickley, Carlos Garcia Gomez, Jonathan O'Berry, Abigail Beneduce, Pam Viana, and Sarah Baron are the creators of MathScannerSolver.
 
 ### How does MathScannerSolver work?
 >MathScannerSolver works by using our custom LaTeX parser and solver to resolve the answer to user input. LaTeX strings from image input is found by using the MathPix API to pull LaTeX from uploaded images.
