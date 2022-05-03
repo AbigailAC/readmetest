@@ -58,7 +58,8 @@ node index.js
 4. After a picture has been chosen, it will be displayed.
 5. If you wish, press the edit icon above your image to manually edit your input and press the *Set* button when finished.
 
-![](https://i.imgur.com/y65QxRY.png)
+![Set Button](https://i.imgur.com/y65QxRY.png)
+
 6. You will be brought to a screen showing the image you uploaded, above it the result will be displayed.
 
 ## Taking a Picture
