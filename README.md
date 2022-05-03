@@ -4,9 +4,13 @@
 <details>
   <summary> How to Install (click to expand) </summary>
 
-### I. Cloning the Repository
+### I. Installing Node Dependency
+  1. Click [here](https://nodejs.org/en/download/) to download the latest version of Node.
+  2. Select the installation that is most appropriate for your system. For most users this will be the *64-bit Windows Installer (.msi)* file.
+  3. Once the download has finished, open the corresponding installation file.
+  4. Follow the prompts to completion to install Node.js on your machine.
 
-
+### II. Cloning the Repository
 1.  Open the Windows run command, either by pressing the *Windows key + R key* at the same time, or by typing *"Run"* into the Windows search bar and selecting the Run app from the list.
 2.  Type *"cmd"* into the run box and then press the *"OK"* button to open the Windows Command Prompt.
 3.  Enter the following into the Command prompt and then press the *Enter* key:
@@ -14,19 +18,13 @@
 git clone https://github.com/Dylans17/MathScannerSolver.git
 ```
 
-### II. Installing npm Dependencies and build React
+### III. Installing npm Dependencies and build React
 1. Input each of the following lines into the Windows Command Prompt, press the *Enter* key after each line:
 ```bash
 cd MathScannerSolver/Code  
 npm install  
 npm run build
 ```
-
-### III. Installing Node
-1. Click [here](https://nodejs.org/en/download/) to download the latest version of Node.
-2. Select the installation that is most appropriate for your system. For most users this will be the *64-bit Windows Installer (.msi)* file.
-3. Once the download has finished, open the corresponding installation file.
-4. Follow the prompts to completion to install Node.js on your machine.
 
 ### IV. Running the application
 1. Verify that your Command Prompt is in the *"Code"* folder of MathScannerSolver. If it is not, use the cd command followed by the location of the code folder to change to the proper directory.
