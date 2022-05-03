@@ -39,6 +39,11 @@ node index.js
 3. If successful, the command prompt should indicate that it is listening on port 9000.
 ![Command Prompt listening](https://i.imgur.com/ylGjuVC.png)
 
+4. To test the application, the enter the following, and then press the *Enter* key:
+```bash
+npm run test
+```
+
 ### VI. Adding Optional MathPix Information
 1. After creating an account with MathPix, navigate to the [ocr-api page](https://accounts.mathpix.com/ocr-api)
 2. Create an API key to use for the application and copy and paste that information into the .env file located within the *"Code"* folder of MathScannerSolver.
