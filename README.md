@@ -52,7 +52,7 @@ node index.js
 
 ## Uploading an image
 
-1. On the front page, left click on the *"Upload Your Picture"* button.
+1. On the front page, press the *"Upload Your Picture"* button.
 2. The page should display a drag 'n' drop box that looks like: ![Drag 'n' Drop your image here](https://i.imgur.com/L6agY9G.png)
 3. You can either drag an image over the box and release it, or click on the box and navigate to the desired picture.
 4. After a picture has been chosen, it will be displayed.
