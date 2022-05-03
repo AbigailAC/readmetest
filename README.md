@@ -6,11 +6,15 @@
 
 ### I. Installing Node Dependency
   1. Click [here](https://nodejs.org/en/download/) to download the latest version of Node.
-  2. Select the installation that is most appropriate for your system. For most users this will be the *64-bit Windows Installer (.msi)* file.
+  2. Select the installation that is most appropriate for your system. For most users, this will be the *64-bit Windows Installer (.msi)* file.
   3. Once the download has finished, open the corresponding installation file.
   4. Follow the prompts to completion to install Node.js on your machine.
 
-### II. Cloning the Repository
+### II. Installing Git
+  1. Click [here](https://git-scm.com/downloads) to download the latest version of Git.
+  2. Select the installation that is most appropriate for your system and follow the corresponding instructions.
+
+### III. Cloning the Repository
 1.  Open the Windows run command, either by pressing the *Windows key + R key* at the same time, or by typing *"Run"* into the Windows search bar and selecting the Run app from the list.
 2.  Type *"cmd"* into the run box and then press the *"OK"* button to open the Windows Command Prompt.
 3.  Enter the following into the Command prompt and then press the *Enter* key:
@@ -18,7 +22,7 @@
 git clone https://github.com/Dylans17/MathScannerSolver.git
 ```
 
-### III. Installing npm Dependencies and build React
+### IV. Installing npm Dependencies and build React
 1. Input each of the following lines into the Windows Command Prompt, press the *Enter* key after each line:
 ```bash
 cd MathScannerSolver/Code  
@@ -26,7 +30,7 @@ npm install
 npm run build
 ```
 
-### IV. Running the application
+### V. Running the application
 1. Verify that your Command Prompt is in the *"Code"* folder of MathScannerSolver. If it is not, use the cd command followed by the location of the code folder to change to the proper directory.
 2. In the Windows Command Prompt enter the following, and then press the *Enter* key:
 ```bash
@@ -35,12 +39,12 @@ node index.js
 3. If successful, the command prompt should indicate that it is listening on port 9000.
 ![Command Prompt listening](https://i.imgur.com/ylGjuVC.png)
 
-### V. Adding Optional MathPix Information
+### VI. Adding Optional MathPix Information
 1. After creating an account with MathPix, navigate to the [ocr-api page](https://accounts.mathpix.com/ocr-api)
 2. Create an API key to use for the application and copy and paste that information into the .env file located within the *"Code"* folder of MathScannerSolver.
 3. Then when running the application, you will no longer receive warnings about the .env file and will be able to use the ocr components.
 
-### VI. Accessing the website
+### VII. Accessing the website
 1. Open your internet browser of choice
 2. Enter *"localhost: 9000"* into the browser's navigation bar and press the *Enter* key.
 3. If successful, you should see the MathScannerSolver page loaded.
