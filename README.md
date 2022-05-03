@@ -37,7 +37,12 @@ node index.js
 3. If successful, the command prompt should indicate that it is listening on port 9000.
 ![Command Prompt listening](https://i.imgur.com/ylGjuVC.png)
 
-### V. Accessing the website
+### V. Adding Optional MathPix Information
+1. After creating an account with MathPix, navigate to the [ocr-api page](https://accounts.mathpix.com/ocr-api)
+2. Create an API key to use for the application and copy and paste that information into the .env file located within the *"Code"* folder of MathScannerSolver.
+3. Then when running the application, you will no longer receive warnings about the .env file and will be able to use the ocr components.
+
+### VI. Accessing the website
 1. Open your internet browser of choice
 2. Enter *"localhost: 9000"* into the browser's navigation bar and press the *Enter* key.
 3. If successful, you should see the MathScannerSolver page loaded.
